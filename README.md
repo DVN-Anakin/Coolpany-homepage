@@ -1,7 +1,7 @@
 # Coolpany homepage
 
 - current site: https://www.coolpany.com 
-- re-design: http://dvn-anakin.github.io/Coolpany-homepage
+- re-design: https://dvn-anakin.github.io/Coolpany-homepage
 
 
 ### History
