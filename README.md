@@ -1,2 +1,9 @@
-# Coolpany-homepage
-Coolpany homepage redesign, Spring 2018 (re-uploaded 2020)
+# Coolpany homepage
+
+- current site: https://www.coolpany.com 
+- re-design: http://dvn-anakin.github.io/Coolpany-homepage
+
+
+### History
+
+*Spring 2017*: coolpany.com re-design proposal
